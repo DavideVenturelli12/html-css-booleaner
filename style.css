@@ -54,3 +54,29 @@ main > ul{
     padding-left: 15px;
     font-size: 19px;
 }
+
+table{
+    font-size: 19px;
+    border-collapse: collapse;
+}
+
+.intestazione{
+    width: 300px;
+    text-align: left;
+    background-color: #047d9b;
+    color: white;
+}
+
+.intestazione-2{
+    text-align: left;
+    background-color: #047d9b;
+    color: white;
+}
+
+.riga-1{
+    background-color: rgb(144, 212, 255);
+}
+
+.riga-2{
+    background-color: rgb(144, 212, 255;
+}
