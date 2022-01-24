@@ -1,0 +1,17 @@
+body{
+    
+}
+
+#container{
+    background-color: #2b9cda;
+    background-image: url(img/pattern.png);
+    background-size: 33%;
+    height: 100px;
+}
+
+#logo{
+    width: 200px; 
+    height: auto;
+    padding-top: 40px;
+    padding-left: 5px;
+}
