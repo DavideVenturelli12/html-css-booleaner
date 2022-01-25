@@ -17,12 +17,18 @@
     margin-bottom: 0px;
 }
 
-header > p{
+#autore{
     margin-top: 0px;
+    margin-bottom: 0px;
     color: gray; 
 }
 
-#autore{
+#data{
+    margin-top: 0px;
+    color: gray;
+}
+
+#colore-autore{
     color: #2b9cda;
 }
 
@@ -41,7 +47,7 @@ header > p{
     font-size: 12px;
 }
 
-main > p{
+main > div > p{
     font-size: 19px;
 }
 
@@ -49,9 +55,8 @@ main > p{
     background-color: yellow;
 }
 
-main > ul{
-    margin-top: 30px;
-    padding-left: 15px;
+main > div > ul{
+    padding-inline-start: 16px;
     font-size: 19px;
 }
 
@@ -81,9 +86,8 @@ table{
     background-color: rgb(144, 212, 255);
 }
 
-footer > p{
+footer > h2{
     color: gray;
-    font-weight: bolder;
 }
 
 #footer-1{
